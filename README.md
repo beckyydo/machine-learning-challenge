@@ -1,7 +1,7 @@
 # Exo-Planet Machine Learning
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
-For 9 years the NASA Kepler space teleschope has helped collected data on potential exoplanets.To help predict the classify candidate exoplanets for the raw data, machine learning models were used. Data was pulled from the link below.
+For 9 years the NASA Kepler space teleschope has helped collected data on potential exoplanets.To help classify the candidate exoplanets for the raw data, machine learning models were used. Data was pulled from the link below.
 
 Data: https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 
